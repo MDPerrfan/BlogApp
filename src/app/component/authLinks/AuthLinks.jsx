@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 import styles from './authLinks.module.css'
 
 const AuthLinks = () => {
-  const status = 'notauthorized' // Replace this with real auth logic later
+  const status = 'notauthorized' 
   const [open, setOpen] = useState(false)
 
   return (

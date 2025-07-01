@@ -30,7 +30,7 @@ a {
 
 .light {
     --bg: white;
-    --textColor: black;
+    --textColor: rgb(29, 29, 29);
     --softBg: #f0f0f0;
     --softTextColor: #626262;
 }

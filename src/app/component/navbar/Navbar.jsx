@@ -10,9 +10,9 @@ const Navbar = () => {
   return (
     <div className={styles.container}>
       <div className={styles.social}>
-        <Image src='/facebook_icon.svg' alt='facebook' width={30} height={30} />
+        <Image src='/facebook.png' alt='facebook' width={30} height={30} />
         <Image src='/linkedin.png' alt='linkedin' width={30} height={30} />
-        <Image src='/instagram_icon.svg' alt='instagram' width={30} height={30} />
+        <Image src='/instagram.png' alt='instagram' width={30} height={30} />
         <Image src='/github.png' alt='github' width={30} height={30} />
       </div>
       <div className={styles.logo}>
